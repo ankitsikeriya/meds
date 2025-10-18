@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="space-y-12">
       <section className="text-center space-y-4">
-        <h1 className="text-3xl sm:text-5xl font-semibold tracking-tight">Smart Healthcare Platform</h1>
+        <h1 className="text-3xl sm:text-5xl  font-semibold tracking-tight">Smart Healthcare Platform</h1>
         <p className="text-foreground/70 max-w-2xl mx-auto">
           Understand conditions, connect with verified doctors, and access reliable medical content.
         </p>
