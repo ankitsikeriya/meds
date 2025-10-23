@@ -14,7 +14,7 @@ export default function Home() {
           </Link>
           <Link href="/blogs" className="inline-flex items-center rounded-md border px-4 py-2  text-sm">
             Browse Blogs
-          </Link>
+          </Link> 
         </div>
       </section>
 
