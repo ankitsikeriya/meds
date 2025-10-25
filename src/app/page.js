@@ -13,7 +13,7 @@ export default function Home() {
             Try Symptom Checker
           </Link>
           <Link href="/blogs" className="inline-flex items-center rounded-md border px-4 py-2  text-sm">
-            Browse Blogs
+            Browse Blogs  
           </Link> 
         </div>
       </section>
