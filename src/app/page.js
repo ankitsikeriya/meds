@@ -39,7 +39,7 @@ export default function Home() {
       <section className="rounded-xl border p-6">
         <h2 className="text-xl font-semibold mb-4">Highlights</h2>
         <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
-          <li className="rounded-lg border p-4">AI Symptom Checker with urgency detection</li>
+          <li className="rounded-lg border p-4">AI Symptom Checker with urgency detection</li> 
           <li className="rounded-lg border p-4">Verified doctor blogs with categories and tags</li>
           <li className="rounded-lg border p-4">Newsletters based on your interests</li>
           <li className="rounded-lg border p-4">Personal health timeline</li>
