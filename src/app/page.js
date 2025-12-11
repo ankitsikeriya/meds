@@ -10,7 +10,7 @@ export default function Home() {
         </p>
         <div className="flex flex-wrap items-center justify-center gap-3">
           <Link href="/symptom-checker" className="inline-flex items-center rounded-md bg-black text-white dark:bg-white dark:text-black px-4 py-2 text-sm">
-            Try Symptom Checker
+            Try Symptom Checker 
           </Link>
           <Link href="/blogs" className="inline-flex items-center rounded-md border px-4 py-2  text-sm">
             Browse Blogs  
