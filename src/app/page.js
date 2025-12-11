@@ -22,7 +22,7 @@ export default function Home() {
         <div className="rounded-lg border p-6">
           <h3 className="font-medium mb-2">Users</h3>
           <p className="text-sm text-foreground/70 mb-4">Personalized dashboard, verified content, newsletters, and appointment requests.</p>
-          <Link href="/users" className="text-sm underline">Go to User area →</Link>
+          <Link href="/users" className="text-sm underline">Go to User area →</Link> 
         </div>
         <div className="rounded-lg border p-6">
           <h3 className="font-medium mb-2">Doctors</h3>
