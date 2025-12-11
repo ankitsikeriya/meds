@@ -46,7 +46,7 @@ export default function Home() {
           <li className="rounded-lg border p-4">Doctor networking forum</li>
           <li className="rounded-lg border p-4">Multilingual interface (Hindi, Marathi, Tamil)</li>
         </ul>
-      </section>
+      </section>  
     </div>
   );
 }
